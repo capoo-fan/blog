@@ -4,25 +4,32 @@
     <title>Github on Capoo-fan</title>
     <link>http://localhost:1313/blog/tags/github/</link>
     <description>Recent content in Github on Capoo-fan</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>qianfu46@gmail.com (潜伏)</managingEditor>
     <webMaster>qianfu46@gmail.com (潜伏)</webMaster>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/github/feed.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 潜伏. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/github/feed.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Awesome Collections</title>
       <link>http://localhost:1313/blog/posts/awesome-collections/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>qianfu46@gmail.com (潜伏)</author>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <author>qianfu46@gmail.com (潜伏)</author>
       <guid>http://localhost:1313/blog/posts/awesome-collections/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/posts/awesome-collections/feature.png" />
     </item>
+    
     <item>
       <title>Remotely edit hoa.moe</title>
       <link>http://localhost:1313/blog/posts/remotely-edit-hoa.moe/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>qianfu46@gmail.com (潜伏)</author>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <author>qianfu46@gmail.com (潜伏)</author>
       <guid>http://localhost:1313/blog/posts/remotely-edit-hoa.moe/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/posts/remotely-edit-hoa.moe/feature.png" />
     </item>
+    
   </channel>
 </rss>
